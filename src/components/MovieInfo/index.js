@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import Thumb from "../Thumb";
 
 //Config
-import { IMAGE_BASE_URL, POSETER_SIZE, POSTER_SIZE } from "../../config";
+import { IMAGE_BASE_URL, POSTER_SIZE } from "../../config";
 
 //Image
 import NoImage from "../../images/no_image.jpg";
